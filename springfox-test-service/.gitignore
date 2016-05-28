@@ -1,0 +1,9 @@
+/target/
+/.settings/
+/Users/
+/.classpath
+/.DS_Store
+/.project
+/.springBeans
+/catalina.home_IS_UNDEFINED/
+/logs/
